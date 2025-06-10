@@ -1,4 +1,4 @@
-module github.com/tu-usuario/go-wati
+module github.com/diogenes-moreira/go-wati
 
 go 1.21
 
