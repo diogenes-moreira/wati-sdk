@@ -20,7 +20,7 @@ Una librería completa y robusta en Go para interactuar con la API de WATI (What
 ## 📦 Instalación
 
 ```bash
-go get github.com/tu-usuario/go-wati
+go get github.com/diogenes-moreira/wati-sdk
 ```
 
 ## 🏃‍♂️ Inicio Rápido
@@ -31,8 +31,8 @@ package main
 import (
     "context"
     "log"
-    "github.com/tu-usuario/go-wati"
-    "github.com/tu-usuario/go-wati/messages"
+    "github.com/diogenes-moreira/wati-sdk"
+    "github.com/diogenes-moreira/wati-sdk/messages"
 )
 
 func main() {
@@ -149,7 +149,7 @@ Para documentación detallada, ejemplos completos y guías avanzadas, consulta:
 
 - **[📚 Documentación Completa](DOCUMENTATION.md)** - Guía completa con todos los detalles
 - **[📁 Ejemplos](examples/)** - Ejemplos prácticos y casos de uso
-- **[🔧 API Reference](https://pkg.go.dev/github.com/tu-usuario/go-wati)** - Referencia completa de la API
+- **[🔧 API Reference](https://pkg.go.dev/github.com/diogenes-moreira/wati-sdk)** - Referencia completa de la API
 
 ## 🏗️ Arquitectura
 
@@ -230,7 +230,7 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 
 - [Documentación de WATI API](https://docs.wati.io)
 - [WhatsApp Business API](https://developers.facebook.com/docs/whatsapp)
-- [Issues y Soporte](https://github.com/tu-usuario/go-wati/issues)
+- [Issues y Soporte](https://github.com/diogenes-moreira/wati-sdk/issues)
 
 ---
 
