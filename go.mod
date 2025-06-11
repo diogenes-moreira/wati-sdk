@@ -1,4 +1,4 @@
-module github.com/diogenes-moreira/go-wati
+module github.com/diogenes-moreira/wati-sdk
 
 go 1.21
 
